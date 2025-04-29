@@ -2,7 +2,6 @@
 
 
 
-
 - 👋 Hi, I’m @Abdul-Raqeeb1
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
