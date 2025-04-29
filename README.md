@@ -26,9 +26,11 @@ Description of the project and what tech was used.
 
 ### **Languages & Frameworks**
 
-| **Skill**          | **Proficiency**      | **Badge**                                                                 |
-|--------------------|----------------------|---------------------------------------------------------------------------|
-| **HTML**           | 80%                  | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff) |
+| **Skill**          | **Proficiency**      | **Badge**                                                                 |                         ![GitHub stats](https://github-readme-stats.vercel.app/api? 
+                                                                                                                                                  username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+|--------------------|----------------------|---------------------------------------------------------------------------|                                         
+| **HTML**           | 80%                  | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff) |                                    
 | **CSS**            | 70%                  | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=fff) |
 | **JavaScript**     | 60%                  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff) |
 | **React**          | 50%                  | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff) |
@@ -39,8 +41,7 @@ Description of the project and what tech was used.
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
 
 
 ## 🚀 Let's Code the Future!
