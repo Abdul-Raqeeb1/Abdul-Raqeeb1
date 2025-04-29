@@ -8,7 +8,7 @@ Hi! I'm **Abdul Raqeeb**, a passionate full-stack web developer currently learni
 ### 💬 Let's Connect:
 - [LinkedIn](Your LinkedIn URL)
 - [Twitter](Your Twitter URL)
-- [Portfolio](Your Portfolio URL)
+- [Portfolio]([Your Portfolio URL](https://abdul-raqeeb1.github.io/web-design-expert/))
 
 Feel free to reach out for collaborations or fun coding projects!
 
