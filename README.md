@@ -7,7 +7,7 @@ Hi! I'm **Abdul Raqeeb**, a passionate full-stack web developer currently learni
 
 ### 💬 Let's Connect:
 - GitHub : (Your LinkedIn URL)
-- TikTok  : [(Your Twitter URL)](https://www.tiktok.com/@alreadybroken108)
+- TikTok  : [(Your TikTok URL)](https://www.tiktok.com/@alreadybroken108)
 - Portfolio  : ([My Portfolio URL](https://abdul-raqeeb1.github.io/web-design-expert/))
 
 Feel free to reach out for collaborations or fun coding projects!
