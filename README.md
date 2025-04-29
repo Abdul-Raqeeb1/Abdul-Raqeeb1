@@ -6,9 +6,9 @@
 Hi! I'm **Abdul Raqeeb**, a passionate full-stack web developer currently learning both **frontend** and **backend** development. I enjoy building innovative and user-friendly applications, exploring new technologies, and creating digital experiences.
 
 ### 💬 Let's Connect:
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Portfolio]([My Portfolio URL](https://abdul-raqeeb1.github.io/web-design-expert/))
+- GitHub : (Your LinkedIn URL)
+- TikTok  : (Your Twitter URL)
+- Portfolio  : ([My Portfolio URL](https://abdul-raqeeb1.github.io/web-design-expert/))
 
 Feel free to reach out for collaborations or fun coding projects!
 
@@ -16,13 +16,11 @@ Feel free to reach out for collaborations or fun coding projects!
 
 Here are a few of my **open-source projects** and some personal coding challenges:
 
-### 🔥 [Project Name](Project Link)  
+### 🔥 Meezan Bank  : [(Project Link)](https://abdul-raqeeb1.github.io/web-design-expert/Meezan%20WebSite/Index.html)  
 Description of the project and what tech was used.
 
-### 🔥 [Project Name](Project Link)  
+### 🔥 Islamic Center  : [(Project Link)](https://abdul-raqeeb1.github.io/web-design-expert/Project%20Ramzan%20Web%202025/Index.html)  
 Description of the project and what tech was used.
-
-## 💻 Skills
 
 
 ## 💻 Skills
