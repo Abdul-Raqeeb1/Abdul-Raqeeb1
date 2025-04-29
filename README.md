@@ -6,7 +6,6 @@
 Hi! I'm **Abdul Raqeeb**, a passionate full-stack web developer currently learning both **frontend** and **backend** development. I enjoy building innovative and user-friendly applications, exploring new technologies, and creating digital experiences.
 
 ### 💬 Let's Connect:
-- GitHub : (Your LinkedIn URL)
 - TikTok  : [(Your TikTok URL)](https://www.tiktok.com/@alreadybroken108)
 - Portfolio  : ([My Portfolio URL](https://abdul-raqeeb1.github.io/web-design-expert/))
 
