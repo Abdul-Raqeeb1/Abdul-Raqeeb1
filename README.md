@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Abdul+Raqeeb+👋;Full+Stack+Web+Developer+in+Progress+💻;Frontend+%26+Backend+Learner+🚀;Building+my+own+digital+brand%3A+Raqtix+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Abdul+Raqeeb+👋;Full+Stack+Web+Developer+in+Progress+💻;Frontend+%26+Backend+Learner+🚀;Building+my+digital+brand%3A+Texon+⚡;Texon+means+Tech+%2B+Vision+%2B+Onward+🔭)](https://git.io/typing-svg)
+
 
 
 
