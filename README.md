@@ -7,7 +7,7 @@ Hi! I'm **Abdul Raqeeb**, a passionate full-stack web developer currently learni
 
 ### 💬 Let's Connect:
 - TikTok  : [(Your TikTok URL)](https://www.tiktok.com/@story2688?).
-- Portfolio  : ([My Portfolio URL](https://abdul-raqeeb1.github.io/web-design-expert/))
+- Portfolio  : ([My Portfolio URL](https://rd-code-01.vercel.app/))
 
 Feel free to reach out for collaborations or fun coding projects!
 
