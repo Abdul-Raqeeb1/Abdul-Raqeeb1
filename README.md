@@ -45,8 +45,8 @@
 ### 📂 Featured Projects:
 <!-- PROJECTS-START -->
 <!-- You can auto-update this section with a script later -->
-- 🎯 [Portfolio Website]([https://github.com/YOUR_USERNAME/your-portfolio](https://rd-code-01.vercel.app/)])
-- 🛒 [E-commerce App]([https://github.com/YOUR_USERNAME/ecommerce-app](https://abdul-raqeeb1.github.io/E-Commerce-Project/))
+- 🎯 [Portfolio Website](https://rd-code-01.vercel.app/)
+- 🛒 [E-commerce App](https://abdul-raqeeb1.github.io/E-Commerce-Project/)
 - 🎙 [Voice Assistant App]([https://github.com/YOUR_USERNAME/voice-ai](https://abdul-raqeeb1.github.io/web-design-expert/Meezan%20WebSite/Index.html))
 <!-- PROJECTS-END -->
 
