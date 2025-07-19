@@ -6,8 +6,8 @@
 </p>
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, and Full-Stack Development**
-- 💻 Most of my projects are available at [My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-- 📫 Reach me at: **your_email@example.com**
+- 💻 Most of my projects are available at [My Repositories]([https://github.com/YOUR_USERNAME?tab=repositories](https://github.com/Abdul-Raqeeb1?tab=repositories))
+- 📫 Reach me at: **kl1420807@gmail.com**
 - 🧠 I’m also exploring **AI tools, GitHub automation, and voice-based apps**
 
 ---
@@ -36,8 +36,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/92XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:kl1420807@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/92 03703083097"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
