@@ -1,39 +1,57 @@
-# 💻 Abdul Raqeeb - Profile
+<h1 align="center">Hi 👋, I'm Abdul Raqeeb</h1>
+<h3 align="center">A passionate Web Developer and Learner from Pakistan</h3>
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Web+Developer;JavaScript+%7C+React+%7C+Next.js;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-Hi! I'm Abdul Raqeeb, a passionate full-stack web developer currently learning both frontend and backend development.
-I enjoy building innovative and user-friendly applications, exploring new technologies, and creating digital experiences.
+- 🌱 I’m currently learning **Next.js, Tailwind CSS, and Full-Stack Development**
+- 💻 Most of my projects are available at [My Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+- 📫 Reach me at: **your_email@example.com**
+- 🧠 I’m also exploring **AI tools, GitHub automation, and voice-based apps**
 
-## 🌐 Let's Connect
-- TikTok  : [(Your TikTok URL)](https://www.tiktok.com/@story2688)
-- Portfolio  : ([My Portfolio](https://rd-code-01.vercel.app/))
+---
 
-Feel free to reach out for collaborations or fun coding projects!
+### 🛠️ Languages and Tools:
 
-## 🚀 Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,git,github,vscode" />
+</p>
 
-Here are a few of my open-source projects and personal coding challenges:
+---
 
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/92XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+### 📂 Featured Projects:
 <!-- PROJECTS-START -->
+<!-- You can auto-update this section with a script later -->
+- 🎯 [Portfolio Website]([https://github.com/YOUR_USERNAME/your-portfolio](https://rd-code-01.vercel.app/))
+- 🛒 [E-commerce App]([https://github.com/YOUR_USERNAME/ecommerce-app](https://abdul-raqeeb1.github.io/E-Commerce-Project/))
+- 🎙 [Voice Assistant App]([https://github.com/YOUR_USERNAME/voice-ai](https://abdul-raqeeb1.github.io/web-design-expert/Meezan%20WebSite/Index.html))
 <!-- PROJECTS-END -->
 
-## 🛠️ Skills
+---
 
-### Languages & Frameworks
-
-| Skill        | Proficiency | Badge |
-|--------------|-------------|--------|
-| HTML         | 80%         | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff) |
-| CSS          | 70%         | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=fff) |
-| JavaScript   | 60%         | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff) |
-| React        | 50%         | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff) |
-| Node.js      | 40%         | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) |
-| Express      | 60%         | ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff) |
-| MongoDB      | 50%         | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) |
-| Git          | 65%         | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) |
-
-## 💬 Let’s Code the Future!
-
-_"Coding is the closest thing to magic we have today."_
+> ✨ “Consistency is more important than perfection.”  
+> — Abdul Raqeeb
 
