@@ -6,8 +6,8 @@
 </p>
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, and Full-Stack Development**
-- 💻 Most of my projects are available at [My Repositories](https://github.com/Abdul-Raqeeb1?tab=repositories)
-- 📫 Reach me at: **kl1420807@gmail.com**
+- 💻 Most of my projects are available at [My Repositories]
+- 📫 Reach me at: On What's app
 - 🧠 I’m also exploring **AI tools, GitHub automation, and voice-based apps**
 
 ---
