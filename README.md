@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, and Full-Stack Development**
 - 💻 Most of my projects are available at [My Repositories]
-- 📫 Reach me at: On What's app
+- 📫 Reach me at On What's app so Scrolldown 👇 
 - 🧠 I’m also exploring **AI tools, GitHub automation, and voice-based apps**
 
 ---
