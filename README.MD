@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Raqeeb;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast;Turning+Ideas+into+Scalable+Digital+Experiences" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
+  <!-- Avatar -->
+  <img src="https://github.com/Abdul-Raqeeb1.png" width="160" height="160" style="border-radius: 50%; border: 6px solid #00D4FF; box-shadow: 0 0 25px rgba(0, 212, 255, 0.4);" alt="Abdul Raqeeb" />
+  
+  <h1 style="margin: 15px 0 8px;">Hi 👋, I'm <span style="color:#00D4FF;">Abdul Raqeeb</span></h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%7C+UI%2FUX+Designer;Building+Scalable+Web+Applications;Turning+Ideas+into+Seamless+Digital+Experiences;Passionate+about+Clean+Code+%26+Modern+Design" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <!-- Quick Links -->
   <a href="https://rd-code-01.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&shadow=true" alt="Portfolio" />
   </a>
   <a href="mailto:kl1420807@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&shadow=true" alt="Email" />
   </a>
   <a href="https://github.com/Abdul-Raqeeb1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&shadow=true" alt="GitHub" />
   </a>
 </div>
 
@@ -20,81 +24,98 @@
 
 ### 👨‍💻 About Me
 
-**Passionate Full Stack Developer** with a sharp eye for clean design and pixel-perfect execution. I craft modern, responsive, and high-performance web applications that deliver exceptional user experiences.  
+**Full Stack Engineer** & **Creative Developer** based in **Karachi, Pakistan**.  
 
-From sleek frontends to robust backends and data-driven solutions — I build end-to-end digital products that scale. Currently based in Karachi, Pakistan, I’m always pushing the boundaries of web technologies and design.
+I specialize in building **modern, responsive, and high-performance** web applications that combine beautiful design with robust functionality. With a strong foundation in both **frontend elegance** and **backend architecture**, I create digital experiences that are not just functional — they’re memorable.
 
-**What I bring to the table:**
-- Clean, maintainable, and production-ready code
-- Beautiful, responsive UI/UX with modern design systems
-- Full-stack architecture (MERN + Django)
-- Fast learner with a strong foundation in both development & graphic design
+Whether it’s a sleek banking platform, a full-featured e-commerce store, or a data-driven dashboard, I deliver production-ready solutions with pixel-perfect precision.
+
+**What sets me apart:**
+- Obsessed with clean, maintainable & scalable code
+- Expert in modern UI/UX principles & design systems
+- Full-stack expertise (MERN + Django)
+- Fast learner who stays ahead of the latest web technologies
 
 ---
 
 ### 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,sqlite,pandas,numpy,nodejs,cpp,django,tailwind,bootstrap,git&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,sqlite,pandas,numpy,nodejs,express,cpp,django,tailwind,bootstrap,git,vercel,figma&perline=9" alt="Skills" />
 </div>
 
 <br>
 
-**Core Stack:**
-- **Frontend:** HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap
-- **Backend:** Python • Django • Node.js
-- **Databases:** MySQL • SQLite
-- **Data Science:** Pandas • NumPy
-- **Languages:** C++
-- **Tools & Others:** Git • Vercel • GitHub Pages
+**Frontend**  •  HTML5 • CSS3 • JavaScript • Tailwind CSS • Bootstrap  
+**Backend**   •  Python • Django • Node.js  
+**Database**   •  MySQL • SQLite  
+**Data & Analytics** •  Pandas • NumPy  
+**Languages**   •  C++  
+**Tools**     •  Git • Vercel • GitHub • Figma
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); gap: 24px; margin-top: 24px;">
 
-#### 1. **Meezan Bank – Official Website Redesign**
-Modern, fully responsive banking website with clean UI/UX and professional branding.  
-**Tech:** HTML5, CSS3, JavaScript, Tailwind CSS  
-**[Live Demo](https://abdul-raqeeb1.github.io/web-design-expert/Meezan%20WebSite/Index.html)**
+  <!-- Project 1 -->
+  <div style="background: #1a1a2e; border-radius: 16px; padding: 24px; border: 1px solid #00D4FF33; transition: all 0.3s;">
+    <h3 style="color:#00D4FF; margin-top:0;">Meezan Bank – Official Website</h3>
+    <p>Modern, fully responsive banking website with professional UI/UX, clean typography, and premium feel.</p>
+    <p><strong>Tech:</strong> HTML5 • CSS3 • JavaScript • Tailwind CSS</p>
+    <a href="https://abdul-raqeeb1.github.io/web-design-expert/Meezan%20WebSite/Index.html" target="_blank" style="color:#00D4FF; text-decoration:underline;">View Live Demo →</a>
+  </div>
 
-#### 2. **E-Commerce Platform**
-Full-featured e-commerce website with product catalog, cart system, and modern checkout flow.  
-**Tech:** HTML5, CSS3, JavaScript, Tailwind CSS  
-**[Live Demo](https://abdul-raqeeb1.github.io/E-Commerce-Project/)**
+  <!-- Project 2 -->
+  <div style="background: #1a1a2e; border-radius: 16px; padding: 24px; border: 1px solid #00D4FF33; transition: all 0.3s;">
+    <h3 style="color:#00D4FF; margin-top:0;">E-Commerce Platform</h3>
+    <p>Complete e-commerce website with product catalog, cart functionality, responsive design & modern checkout experience.</p>
+    <p><strong>Tech:</strong> HTML5 • CSS3 • JavaScript • Tailwind CSS</p>
+    <a href="https://abdul-raqeeb1.github.io/E-Commerce-Project/" target="_blank" style="color:#00D4FF; text-decoration:underline;">View Live Demo →</a>
+  </div>
 
 </div>
 
-**Want to see more?**  
-Check out my complete **[Portfolio](https://rd-code-01.vercel.app/)** for additional projects, case studies, and design work.
+**🔥 More projects & case studies available in my [Portfolio](https://rd-code-01.vercel.app/)**
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
-<div align="center">
+<div align="center" style="margin: 40px 0;">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550646000849)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raqeeb_developer/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/paragongraphic1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kl1420807@gmail.com)
+  <a href="https://www.facebook.com/profile.php?id=61550646000849" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <a href="https://www.instagram.com/raqeeb_developer/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <a href="https://www.behance.net/paragongraphic1" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  
+  <a href="mailto:kl1420807@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Raqeeb1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Raqeeb1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
-
-<br>
+### 📊 GitHub Analytics
 
 <div align="center">
-  <strong>✨ Let's build something amazing together ✨</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Raqeeb1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Raqeeb1&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Raqeeb1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top Languages" />
 </div>
 
 ---
 
-**Abdul Raqeeb** • Full Stack Developer • Karachi, Pakistan
+<div align="center">
+  <strong>✨ Always open to exciting opportunities and collaborations ✨</strong><br><br>
+  <strong>Abdul Raqeeb</strong> • Full Stack Engineer • Karachi, Pakistan
+</div>
