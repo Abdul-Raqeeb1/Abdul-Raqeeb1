@@ -109,10 +109,11 @@ Whether it’s a sleek banking platform, a full-featured e-commerce store, or a 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Raqeeb1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Raqeeb1&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Raqeeb1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Raqeeb1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top Languages" />
 </div>
-
 ---
 
 <div align="center">
