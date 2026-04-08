@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Avatar -->
-  <img src="https://github.com/Abdul-Raqeeb1.png" width="160" height="160" style="border-radius: 50%; border: 6px solid #00D4FF; box-shadow: 0 0 25px rgba(0, 212, 255, 0.4);" alt="Abdul Raqeeb" />
+  <img src="https://github.com/Abdul-Raqeeb1.png" width="160" height="160" style="border-radius: 50px; border: 6px solid #00D4FF; box-shadow: 0 0 25px rgba(0, 212, 255, 0.4);" alt="Abdul Raqeeb" />
   
   <h1 style="margin: 15px 0 8px;">Hi 👋, I'm <span style="color:#00D4FF;">Abdul Raqeeb</span></h1>
   
