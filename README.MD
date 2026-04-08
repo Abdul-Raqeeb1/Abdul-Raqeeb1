@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul-Raqeeb1&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-raqeeb1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-raqeeb1" alt="abdul-raqeeb1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul-Raqeeb1" alt="abdul-raqeeb1" /></a> </p>
 
 - 🔭 My Personal PortFolio [My personal portfolio with animations and Next.js](https://rd-code-01.vercel.app/)
 
